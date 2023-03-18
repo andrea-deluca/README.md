@@ -15,9 +15,8 @@
    </a>
 </div>
 
----
-
 <div style="display: flex; flex-direction: column; align-items: center">
+
 
 ## Aboout me
 
