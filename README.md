@@ -7,10 +7,7 @@
 
 <div align="center">
   <h3 align="center">Follow me</h3>
-  <a href="http://linkedin.com"> 
+  <a href="http://linkedin.com/in/andrea-deluca-022b1820b"> 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin-andrea-deluca" />
-   </a>
-   <a href="http://linkedin.com"> 
-    <img src="https://skillicons.dev/icons?i=twitter" alt="linkedin-andrea-deluca" />
    </a>
 </div>
