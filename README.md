@@ -14,36 +14,3 @@
     <img src="https://skillicons.dev/icons?i=twitter" alt="linkedin-andrea-deluca" />
    </a>
 </div>
-
-<div style="display: flex; flex-direction: column; align-items: center">
-
-
-## Aboout me
-
-### Studies
-
-- [x] BSc in Computer Engineering at Università degli studi di Palermo
-- [ ] MSc in Software Engineering at Politecnico di Torino
-
-### Skills
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="width: 50%;text-align: center">
-        <h3>Programming languages</h3>
-        <img src="https://skillicons.dev/icons?i=c,java,js,ts,rust,solidity&perline=6" alt="linkedin-andrea-deluca" />
-    </div>
-    <div style="width: 50%; text-align: center">
-        <h3>Software development</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,solidjs,bootstrap,tailwind,nodejs,express,tauri,firebase,heroku,vercel&perline=6" alt="linkedin-andrea-deluca" />
-    </div>
-    <div style="width: 50%; text-align: center">
-        <h3>Database</h3>
-        <img src="https://skillicons.dev/icons?i=sqlite,mongodb&perline=6" alt="linkedin-andrea-deluca" />
-    </div>
-    <div style="width: 50%; text-align: center">
-        <h3>Software and Tools</h3>
-        <img src="https://skillicons.dev/icons?i=docker,git,postman&perline=6" alt="linkedin-andrea-deluca" />
-    </div>
-</div>
-</div>
-
