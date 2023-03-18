@@ -3,7 +3,7 @@
 
 <p align="center"> I'm interested in web and mobile development and I'm currently learning the development of web3 and decentralized applications based on blockchain technologies, such as Ethereum and Solana.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andrea-deluca&label=Profile%20views&color=0e75b6&style=flat" alt="andrea-deluca" /> </p>
+<p align="center">I'm currently collaborating with <a href="https://staituned.com">staituned</a> on blog and new features development.</p>
 
 <div align="center">
   <h3 align="center">Follow me</h3>
@@ -15,6 +15,10 @@
    </a>
 </div>
 
+---
+
+<div style="display: flex; flex-direction: column; align-items: center">
+
 ## Aboout me
 
 ### Studies
@@ -24,18 +28,23 @@
 
 ### Skills
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div style="width: 50%;text-align: center">
+        <h3>Programming languages</h3>
+        <img src="https://skillicons.dev/icons?i=c,java,js,ts,rust,solidity&perline=6" alt="linkedin-andrea-deluca" />
+    </div>
+    <div style="width: 50%; text-align: center">
+        <h3>Software development</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,solidjs,bootstrap,tailwind,nodejs,express,tauri,firebase,heroku,vercel&perline=6" alt="linkedin-andrea-deluca" />
+    </div>
+    <div style="width: 50%; text-align: center">
+        <h3>Database</h3>
+        <img src="https://skillicons.dev/icons?i=sqlite,mongodb&perline=6" alt="linkedin-andrea-deluca" />
+    </div>
+    <div style="width: 50%; text-align: center">
+        <h3>Software and Tools</h3>
+        <img src="https://skillicons.dev/icons?i=docker,git,postman&perline=6" alt="linkedin-andrea-deluca" />
+    </div>
+</div>
+</div>
 
-
-[![MySkills](https://skillicons.dev/icons?i=bootstrap,css,express,firebase,heroku,html,nextjs,react,sass,solidjs,svelte,tailwind,tauri,ts,vercel)](https://linkedin.com)
-
-
-[![MySkills](https://skillicons.dev/icons?i=c,java,js,nodejs,rust,solidity)](https://linkedin.com)
-
-[![MySkills](https://skillicons.dev/icons?i=mongodb,sqlite,)](https://linkedin.com)
-
-
-
-[![MySkills](https://skillicons.dev/icons?i=docker,git,postman)](https://linkedin.com)
-
-## Follow me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)
